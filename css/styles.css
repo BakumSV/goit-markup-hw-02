@@ -135,6 +135,9 @@ body {
   color: var(--secondary-text-color);
 }
 /* Projects */
+.projects-link {
+  text-decoration: none;
+}
 .projects-name {
   font-weight: bold;
   font-size: 18px;
